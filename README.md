@@ -47,7 +47,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danushkumar-v&" alt="danushkumar-v" /></p>
-<p><img align = "center" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danushkumar-V&theme=vue"/></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danushkumar-v&show_icons=true&locale=en&layout=compact" alt="danushkumar-v" />
-<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Danushkumar-V"/>
+<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Danushkumar-V"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danushkumar-v&" alt="danushkumar-v" /></p>
+<p><img align = "center" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danushkumar-V&theme=vue"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danushkumar-v&show_icons=true&locale=en&layout=compact" alt="danushkumar-v" /></p>
+
